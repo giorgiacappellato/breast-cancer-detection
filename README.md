@@ -11,7 +11,7 @@ This repository contains a deep learning project focused on the early detection 
 
 ##  Academic Context
 * **Authors:** Giorgia Cappellato, Andrea Frattesi
-* * **Course:** Deep Learning for AI
+* **Course:** Deep Learning for AI
 * **Institution:** Università Cattolica del Sacro Cuore
 
 ##  Dataset
