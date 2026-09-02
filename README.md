@@ -1,9 +1,8 @@
 #  Breast Cancer Detection: Deep Learning Classification and Segmentation
 
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![Framework](https://img.shields.io/badge/Framework-PyTorch-ee4c2c)
-![Task](https://img.shields.io/badge/Task-Computer_Vision-brightgreen)
-![Institution](https://img.shields.io/badge/Institution-Università_Cattolica-003366)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Course](https://img.shields.io/badge/Course-Deep_Learning-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ##  Overview
 This repository contains a deep learning project focused on the early detection of breast cancer using ultrasound images. It implements a dual-task approach: 
