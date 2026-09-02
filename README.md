@@ -1,7 +1,7 @@
 #  Breast Cancer Detection: Deep Learning Classification and Segmentation
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-![Course](https://img.shields.io/badge/Course-Deep_Learning-brightgreen)
+![Course](https://img.shields.io/badge/Course-Deep_Learning_for_AI-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ##  Overview
@@ -11,8 +11,8 @@ This repository contains a deep learning project focused on the early detection 
 
 ##  Academic Context
 * **Authors:** Giorgia Cappellato, Andrea Frattesi
+* * **Course:** Deep Learning for AI
 * **Institution:** Università Cattolica del Sacro Cuore
-* **Course:** Deep Learning 
 
 ##  Dataset
 The project utilizes a dataset of 780 grayscale ultrasound images collected over a year at Baheya hospital (sourced from Kaggle). 
