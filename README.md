@@ -44,4 +44,4 @@ While the model generalizes well, the relatively small dataset restricts real-wo
 ##  How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tuousername/breast-cancer-detection.git](https://github.com/tuousername/breast-cancer-detection.git)
+   git clone [https://github.com/giorgiacappellato/breast-cancer-detection.git](https://github.com/giorgiacappellato/breast-cancer-detection.git)
